@@ -1,0 +1,63 @@
+1. Stickfigures
+
+Time: 1:20 to 1:50 AM
+
+376550
+18000
+8225
+
+PC-F1: 0.966349084143
+VOI: 0.523012480386
+
+2. Stickfigures PCA (5 components)
+
+2 subspaces of 3,3 clusters
+
+Time:7:48 PM to 7:48:30 PM
+
+199150
+5400
+185625
+
+PC F1: 0.675857973105
+VOI: 0.856335383088
+
+3. ALOI Intro 
+
+2 subspaces of 2,2 clusters
+
+Time:1:05 AM to 2:03 AM
+
+36143
+5184
+145
+
+PC F1: 0.931340591381
+VOI: 0.32714559761
+
+4. ALOI Intro PCA (8 Components)
+
+2 subspaces of 2,2 clusters
+
+Time:7:57 PM to 7:57:30 PM
+
+19657
+5184
+16631
+
+PC F1: 0.6431317378
+VOI: 0.630371171893
+
+5.ALOI Intro PCA Dataset
+
+2 subspaces of 2,2 clusters
+
+Time:8:13 PM to 8:13:30 PM
+
+25297
+4220
+10991
+
+PC F1:0.768847352025
+VOI:0.663979146865
+
